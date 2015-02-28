@@ -1,0 +1,21 @@
+Assignment 4 Answers
+
+1. legal names: _and; var; var1; your_name; COLOR. 
+   and: is a reverved word; 1var: cannot start with a number
+   my-name: - is not legal.
+
+2. a: Boolean
+   b: Floating point
+   c: String
+   d: integer
+   e: String
+   f: Imaginary & Complex
+   g: String
+   h: Boolean
+   i: String
+   
+3. False
+   True
+   True
+   True
+   False
